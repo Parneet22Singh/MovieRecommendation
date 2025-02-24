@@ -10,4 +10,4 @@ The dataset used for this project is the TMDB Movie Metadata, which contains inf
 
 ## Created by 
 
-[Parneet Singh](https://www.github.com/parneet)
+[Parneet22Singh]((https://github.com/Parneet22Singh))
